@@ -25,7 +25,7 @@ interests:
 
 education:
   courses:
-  - course: Bcs in Applied Physics
+  - course: BSc in Applied Physics
     institution: Beihang University
     year: 2015
 
