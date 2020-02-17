@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Introduction"
-subtitle = ""
+title = "Correlated Quantum Matter and Materials"
+subtitle = "Welcome to Li Group"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -49,5 +49,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+Strong interactions among atomic particles can lead to materials, such as some high-temperature superconductors, with unusual electronic and magnetic properties. To explore these materials and their potential applications, researchers rely on computer simulations. Reliable numerical access to thermodynamic properties such as magnetization and heat capacity allows researchers to make direct comparisons to experiments. However, such simulations are exceptionally difficult in the presence of strongly correlated quantum many-body behavior. We advocate a simple attractive way to exponentially speed up thermal simulations of quantum many-body systems in both one- and two-dimensional materials.
 
-Strongly correlated quantum matters and materials ...
