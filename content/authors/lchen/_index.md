@@ -1,10 +1,10 @@
 ---
 # Display name
-name: "Yuan Gao"
+name: "Lei Chen"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Name "Ygao"
+- Name "LChen"
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,21 +14,25 @@ role: Bachelor Student
 
 # Organizations/Affiliations
 organizations:
-- name: Beihang University 
-  url: ""
+- name: Rice University 
+  url: "https://physics.rice.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # List each interest with a dash
 interests:
-- Quantum Critical Thermodynamics
+- Condensed Matter Theory
 
 education:
   courses:
-  - course: High School
-    institution: The High School Affiliated to Renmin University of China
-    year: 2012
+  - course: B.S. in Physics 
+    institution: Beihang University
+    year: 2017
+  - course: Ph.D. Student
+    institution: Rice University
+    year: since 2018
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -37,16 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/USERNAME
+  link: 'mailto:l.chen@rice.edu'  # For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -59,5 +54,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students 
+- Former Members 
 ---
