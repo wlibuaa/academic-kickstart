@@ -51,7 +51,7 @@ subtitle = "Welcome to Li Group"
 +++
 <!--- ![WLI](http://shi.buaa.edu.cn/__local/1/D3/F2/D6A6E5196DB06D04CA72D378F8E_9BFD9043_670B.jpeg) --->
 <p align="center">
-<img src='/img/KeyImage.png' width='300' />
+<img src='/img/KeyImage.png' width='240' />
 <p/>
 
 Strong interactions among atomic particles can lead to materials, such as some high-temperature superconductors, with unusual electronic and magnetic properties. To explore these materials and their potential applications, researchers rely on computer simulations. Reliable numerical access to thermodynamic properties such as magnetization and heat capacity allows researchers to make direct comparisons to experiments. However, such simulations are exceptionally difficult in the presence of strongly correlated quantum many-body behavior. We advocate a simple attractive way to exponentially speed up thermal simulations of quantum many-body systems in both one- and two-dimensional materials.
