@@ -22,8 +22,7 @@ bio:
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Magnetic Materials Genome
 
 education:
   courses:
@@ -63,5 +62,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Student 
+- Master Students 
 ---

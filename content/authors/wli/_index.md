@@ -10,26 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor 
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Beihang University
-  url: ""
+- name: School of Physics, Beihang University
+  url: "http://physics.buaa.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
-bio:  
+bio: Wei Li is a computational condensed matter physicist working at Beihang University
 
 interests:
-- 
-- 
-- 
+- Tensor Networks and Manybody Physics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Theoretical Physics
+    institution: University of Chinese Academy of Sciences, China
     year: 2012
+  - course: M.S. in Condensed Matter Physics
+    institution: Beihang University, China
+    year: 2009
+  - course: B.S. in Physics
+    institution: Beihang University, China
+    year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -38,10 +42,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:wli@buaa.edu.cn"  # For a direct email link, use "mailto:test@example.org".
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: "mailto:wli@buaa.edu.cn"  
+# For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -49,12 +51,11 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "w.li@buaa.edu.cn"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Faculty
+- Principle Investigator
 ---
 
-Welcome to Li Group
