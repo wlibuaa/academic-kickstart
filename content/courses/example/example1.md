@@ -1,6 +1,6 @@
 ---
-title: Example Page 1
-linktitle: Tips 1-2
+title: Solid State Physics
+linktitle: Chapter 0
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
