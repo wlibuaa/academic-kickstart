@@ -68,5 +68,5 @@ subtitle = ""
 
 
 + Paper "The Ghost of a Vanishing Stripe Order in the Triangular Quantum Ising Magnet TmMgGaO$_4$" $\textbf{accepted}$ by $\textit{Nature Communications}$ at 10-Feb-2020. Congratulations to Han Li and Bin-Bin Chen!
-+ $\textbf{The 16-th Conference on Theoretical Magnetism}$ will be held from 27 to 30 March, 2020, at the city of Yangzhou. 
++ The 16-th Conference on Theoretical Magnetism will be held from 27 to 30 March, 2020, at the city of Yangzhou. 
 Online registration: http://mt2020.yzu.edu.cn.

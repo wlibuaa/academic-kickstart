@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Haoxin Wang"
+name: "Hao-Xin Wang"
 
 # Username (this should match the folder name and the name on publications)
 authors:
