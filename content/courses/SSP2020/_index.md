@@ -24,3 +24,4 @@ menu:
 ## Chapter 0: Introduction to Solid State Physics
 
 
+pdf can be downloaded [here](Chapter0.pdf)
