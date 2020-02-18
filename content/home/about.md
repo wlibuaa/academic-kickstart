@@ -50,12 +50,16 @@ subtitle = "Welcome to CQTM$^2$ Group"
  css_class = ""
 +++
 <!--- ![WLI](http://shi.buaa.edu.cn/__local/1/D3/F2/D6A6E5196DB06D04CA72D378F8E_9BFD9043_670B.jpeg) --->
-<p align='center'>
-<img align='left' src='/img/KeyImage.png' width='230' hspace='30' />
-<img align='left' src='/img/KeyImage3.png' width='320' hspace='30'/>
-<img align='left' src='/img/KeyImage2.png' width='405' hspace='30'/>
-<p/>
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<!--- <p align='center'> --->
+<!--- <img align='left' src='/img/KeyImage.png' width='230' hspace='30' /> --->
+<!--- <img align='left' src='/img/KeyImage3.png' width='320' hspace='30'/> --->
+<!--- <img align='left' src='/img/KeyImage2.png' width='405' hspace='30'/> --->
+<!--- <p/> --->
+<!--- <br/><br/><br/><br/><br/><br/><br/><br/> --->
 
-Strong interactions among atomic particles can lead to materials, such as some high-temperature superconductors, with unusual electronic and magnetic properties. To explore these materials and their potential applications, researchers rely on computer simulations. Reliable numerical access to thermodynamic properties such as magnetization and heat capacity allows researchers to make direct comparisons to experiments. However, such simulations are exceptionally difficult in the presence of strongly correlated quantum many-body behavior. We advocate a simple attractive way to exponentially speed up thermal simulations of quantum many-body systems in both one- and two-dimensional materials.
+<p align='center'> 
+<img align='left' src='/img/KeyImage.png' width='290' hspace='35' />
+<p/> 
+
+$\textbf{About us}$: Strong interactions among atomic particles can lead to materials, such as some high-temperature superconductors, with unusual electronic and magnetic properties. To explore these materials and their potential applications, researchers rely on computer simulations. Reliable numerical access to thermodynamic properties such as magnetization and heat capacity allows researchers to make direct comparisons to experiments. However, such simulations are exceptionally difficult in the presence of strongly correlated quantum many-body behavior. We advocate a simple attractive way to exponentially speed up thermal simulations of quantum many-body systems in both one- and two-dimensional materials.
 
