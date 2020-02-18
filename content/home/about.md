@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Correlated Quantum Matter and Topological Materials"
-subtitle = "Welcome to CQTM$^2$ Group"
+title = "Correlated Quantum Matter and Materials"
+subtitle = "Welcome to CQM$^2$ Group"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -56,10 +56,20 @@ subtitle = "Welcome to CQTM$^2$ Group"
 <!--- <img align='left' src='/img/KeyImage2.png' width='405' hspace='30'/> --->
 <!--- <p/> --->
 <!--- <br/><br/><br/><br/><br/><br/><br/><br/> --->
+<!--- <p/> --->
 
-<p align='center'> 
-<img align='left' src='/img/KeyImage.png' width='290' hspace='35' />
-<p/> 
+<img align='right' src='/img/KeyImage2.png' width='300' hspace='24' />
+$\textbf{About Us:}$ 
+Our research group at Beihang University focuses on correlation and topology in quantum manybody systems. Strong interactions among atomic particles can lead to  materials, such as some high-temperature superconductors, with unusual electronic and magnetic properties. To explore these novel states of matter and their potential applications, we aim to develop simulation techniques, e.g., tensor networks and related renormalization group methods, that provide reliable and accurate numerical access to equilibrium and dynamical properties of correlated quantum matter and materials. 
 
-$\textbf{About us}$: Strong interactions among atomic particles can lead to materials, such as some high-temperature superconductors, with unusual electronic and magnetic properties. To explore these materials and their potential applications, researchers rely on computer simulations. Reliable numerical access to thermodynamic properties such as magnetization and heat capacity allows researchers to make direct comparisons to experiments. However, such simulations are exceptionally difficult in the presence of strongly correlated quantum many-body behavior. We advocate a simple attractive way to exponentially speed up thermal simulations of quantum many-body systems in both one- and two-dimensional materials.
+<img align='right' src='/img/KeyImage.png' width='300' hspace='24' />
+$\textbf{Themes:}$
++ Thermal Tensor Networks and Statistical Manybody Physics
++ Frustrated Quantum Magnets and Emergent Phenomena
++ Strongly Correlated Electrons and Dynamics
++ Topological States and Phase Transitions
++ Universal Thermodynamics and Magnetocaloric Effects
+
+
+
 
