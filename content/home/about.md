@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Correlated Quantum Matter and Materials"
-subtitle = "Welcome to CQM$^2$ Group"
+subtitle = "Welcome to CQM$^2$ Group!"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -59,11 +59,11 @@ subtitle = "Welcome to CQM$^2$ Group"
 <!--- <p/> --->
 
 <img align='right' src='/img/KeyImage2.png' width='300' hspace='24' />
-$\textbf{About Us:}$ 
-Our research group at Beihang University focuses on correlation and topology in quantum manybody systems. Strong interactions among atomic particles can lead to  materials, such as some high-temperature superconductors, with unusual electronic and magnetic properties. To explore these novel states of matter and their potential applications, we aim to develop simulation techniques, e.g., tensor networks and related renormalization group methods, that provide reliable and accurate numerical access to equilibrium and dynamical properties of correlated quantum matter and materials. 
+Our research group at _Beihang University_ is focuses on **emergent physics**, e.g., fractionalization, topology, and phase transition, etc., in **quantum manybody materials**. Strong interactions among atomic particles can lead to  materials, such as some high-temperature superconductors, with unusual electronic and magnetic properties. To explore these novel states of matter and their potential applications, we aim to develop simulation techniques, e.g., **tensor networks** and related **renormalization group methods**, that provide reliable and accurate numerical access to thermal and dynamical properties of correlated quantum matter and materials. 
+***
 
 <img align='right' src='/img/KeyImage.png' width='300' hspace='24' />
-$\textbf{Themes:}$
+## Research:
 + Thermal Tensor Networks and Statistical Manybody Physics
 + Frustrated Quantum Magnets and Emergent Phenomena
 + Strongly Correlated Electrons and Dynamics
