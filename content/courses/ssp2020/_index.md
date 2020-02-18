@@ -33,7 +33,8 @@ This website is for solid state physics course in School of Physics, Beihang Uni
 
 **Chapter 0: Introduction [2 hours]**
 
-+ **Background on solid state physics and condensed matter physics, methods and purpose** 
++ **Solid State Material, Condensed Matter, and Quantum Matter**
++ **Structure, Property, and Performance** 
 
 **Chapter 1: Crystal Structures [6 hours]**
 
