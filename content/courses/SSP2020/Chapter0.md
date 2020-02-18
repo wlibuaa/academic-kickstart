@@ -6,7 +6,7 @@ type: docs
 date: "2019-05-05T00:00:00+01:00"
 draft: false
 menu:
-  SSP2020:
+  SSP:
     parent: SSP2020
     weight: 1
 
@@ -19,5 +19,5 @@ Solid-state physics is the study of rigid matter, or solids, through methods suc
 ## Tips
 
 * Online lecture (by Sandro Scandolo, ICTP) can be found [here](https://www.bilibili.com/video/av47845416?p=1).
-* Slides for Chapter 0 can be downloaded [here](Chapter0.pdf).
+* Slides for Chapter 0 can be downloaded [here](Slides/Chapter0.pdf).
 
