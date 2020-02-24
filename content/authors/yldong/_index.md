@@ -22,7 +22,7 @@ bio:
 
 # List each interest with a dash
 interests:
-- Material Science
+- Materials Science
 
 education:
   courses:

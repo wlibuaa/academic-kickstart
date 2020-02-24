@@ -1,13 +1,13 @@
 ---
 # Course title, summary, and position.
-linktitle: Solid State Physics [Spring 2020]
-summary: This is a course for solid state physics.
+linktitle: Solid State Physics 2020 Spring
+summary: Bachelor course in Physics at Beihang University.
 weight: 1
 
 # Page metadata.
-title: Welcome
-date: "2018-09-09T00:00:00Z"
-lastmod: "2018-09-09T00:00:00Z"
+title: Welcome to SSP 2020
+date: "2020-02-19T00:00:00Z"
+lastmod: "202o-02-19T00:00:00Z"
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -17,13 +17,36 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   ssp2020:
-    name: Syllabus
+    name: Welcome
     weight: 1
 ---
 
 
 
-This website is for solid state physics course in School of Physics, Beihang University.
+Hello everyone! This is a Beihang solid state physics course for Bachelor students majored in **Physics**, please feel free to explore the website. Have fun!		
+
+<img src="./figs/azurite.jpg" style="zoom:100%;" name="azurite"/>
+
+<center> <font color=blue> A beautiful Azurite crystal: Quantum Material with Spin Frustration </font> </center>
+
+
+
+## Requirements
+
+​	*Due to the coronavirus epidemic in 2020 spring:*
+
++ Watch the [online SSP course video](https://www.bilibili.com/video/av47845416?p=1) and read related materials (textbook, slides) before due discussion hours.
+
++ Discussion Time: Every Tuesday and Friday,  10:00 - 11:30 am, through [*Tencent Meeting*](https://meeting.qq.com).
++ Homework.
+
+
+
+Wei Li, Associate Prof. Dr.
+
+School of Physics, Beihang
+
+19-Feb-2020, Beijing.
 
 
 
@@ -31,46 +54,73 @@ This website is for solid state physics course in School of Physics, Beihang Uni
 
 ## Syllabus
 
-**Chapter 0: Introduction [2 hours]**
+Chapter 0: Introduction [2 hours]
 
-+ **Solid State Material, Condensed Matter, and Quantum Matter**
-+ **Structure, Property, and Performance** 
++ Solid States, Condensed Matter, and Quantum Matter
++ Structure, Property, and Performance 
++ Theory of Everything
 
-**Chapter 1: Crystal Structures [6 hours]**
+Chapter 1: Crystal Structures [6 hours]
 
-+ **Bravais lattice, basis, primitive vector, primitive unit cell, Miller index**  
++ Bravais lattice 
++ Basis, primitive vector/cell, and conventional unit cell
++ Reciprocal Lattice and Miller index
 
-**Chapter 2: X-Ray Diffraction [4 hours]**
+Chapter 2: X-Ray Diffraction [4 hours]
 
-+ **Reciprocal lattice, Bragg's law, Laue formula**
++ Laue formula
++ Bragg's law
++ Geometric and form factors
 
-**Chapter 3: Crystal Binding [6 hours]**
+Chapter 3: Crystal Binding [6 hours]
 
-+ **Classification of solids, ionic crystal and Madelung constants, covalent crystal, molecular crystal, Leonard-Jones potential, cohesive energy**
++ Cohesive energy and classification of solids
++ Ionic crystal and Madelung constants, 
++ Covalent crystal and valence bond
++ molecular crystal and Leonard-Jones potential
 
-**Chapter 4 Defects in Crystals [3 hours]**
+Chapter 4 Defects in Crystals [2 hours]
 
-+ **Point defects and its thermodynamics, Dislocation, Color center, Annealing, Crystal growth**
++ Classification of defects
++ Point defects and its thermodynamics and  color center
++ Dislocation and crystal growth
 
-**Chapter 5 Hamonic Crystal [14 hours]**
+Chapter 5 Hamonic Crystal [14 hours]
 
-+ **Classical theory of hamonic crystals, quantum theory of harmonic crystals, Models of Debye and Einstain, phonons and lattice specific heat, anharmonic effects**
++ Classical theory of hamonic crystals
++ Quantum theory of harmonic crystals
++ Debye and Einstain Models 
++ Phonons and lattice thermodynamics, anharmonic effects
 
-**Chapter 6 Metals [12 hours]**
+Chapter 6 Metals [12 hours]
 
-+ **Drude theory, electric resistivity, thermal conductivity, thermoelectric effect, Sommerfeld theory**
++ Drude theory and electric resistivity
++ Sommerfeld theory
++ Thermal conductivity
++ Free electron gas and Fermi liquid
++ Hall effect and free electron Landau level
 
-**Chapter 7 Band Theory [12 hours]**
+Chapter 7 Band Theory I [12 hours]
 
-+ **Periodic potential, independent electron approximation, Fermi surface and Brillouin zone, tight-binding model, band structure, insulators and semiconductors, free electron Landau level, de Hass-van Alphen Effect**
++ Periodic potential and Bloch theorem
++ Fermi surface and Brillouin zone 
++ Tight-binding model
++ Nearly free electrons
++ Band structure
 
-**Chapter 8 Magnetism [3 hours]**
+Chapter 8 Band Theory II  [4 hours]
 
-+ **Diamagnetism and paramagnetism, Curie's law, magnetic ordering**
++ Semiclassical motion of band electrons
++ Band electrons in an electric field: metals, insulators, and semiconductors
++ Band electrons in a magnetic field: de Hass-van Alphen Effect
 
-**Chapter 9 Superconductivity [2 hours]**
+Chapter 9  Magnetism and Superconductivity [2 hours]
 
-+ **Critical temperature and superconductivity gap, persistent current, the Meissner effect, the London equation, BCS theory**
++ Diamagnetism, paramagnetism, Magnetic order, and Curie's law
+
++ Critical temperature and superconductivity gap
++ Persistent current, the Meissner effect, and the London equation
++ Brief introduction to the BCS theory
 
 
 

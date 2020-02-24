@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Correlated Quantum Matter and Materials"
-subtitle = "Welcome to CQM$^2$ Group!"
+subtitle = "Welcome to CQM<sup>2</sup> Group!"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -23,11 +23,11 @@ subtitle = "Welcome to CQM$^2$ Group!"
 
   # Background color.
   # color = "navy"
-  
+
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
   # gradient_end = "SkyBlue"
-  
+
   # Background image.
   image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -45,7 +45,7 @@ subtitle = "Welcome to CQM$^2$ Group!"
 [advanced]
  # Custom CSS. 
  css_style = ""
- 
+
  # CSS class.
  css_class = ""
 +++
@@ -58,11 +58,13 @@ subtitle = "Welcome to CQM$^2$ Group!"
 <!--- <br/><br/><br/><br/><br/><br/><br/><br/> --->
 <!--- <p/> --->
 
-<img align='right' src='/img/KeyImage2.png' width='300' hspace='24' />
-Our research group at _Beihang University_ is focuses on **emergent physics**, e.g., fractionalization, topology, and phase transition, etc., in **quantum manybody materials**. Strong interactions among atomic particles can lead to  materials, such as some high-temperature superconductors, with unusual electronic and magnetic properties. To explore these novel states of matter and their potential applications, we aim to develop simulation techniques, e.g., **tensor networks** and related **renormalization group methods**, that provide reliable and accurate numerical access to thermal and dynamical properties of correlated quantum matter and materials. 
+<img align='right' src='/img/group.png' width='300' hspace='24' />
+Our research group at [Beihang University](https://www.buaa.edu.cn) is focusing on **emergent physics** such as criticality, topology, and fractionalization, etc., in **quantum manybody systems**. Strong interactions among atomic particles can lead to  materials, such as some high-temperature superconductors, with unusual electronic and magnetic properties. To explore these novel states of matter and their potential applications, we aim to develop simulation techniques, e.g., **tensor networks**, **renormalization group** and **deep learning techniques**, that provide reliable and accurate numerical access to thermal and dynamical properties of correlated quantum matter and materials. 
+
 ***
 
 <img align='right' src='/img/KeyImage.png' width='300' hspace='24' />
+
 ## Research:
 + Thermal Tensor Networks and Statistical Manybody Physics
 + Frustrated Quantum Magnets and Emergent Phenomena
