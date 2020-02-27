@@ -20,13 +20,13 @@ weight: 1
 
 ### ***1. 晶体结构的基本概念*** 
 
-<img src="/courses/ssp2020/figs/quartz3.jpeg" style="zoom:60%;" name="square"/>
+<img src="/courses/ssp2020/figs/quartz3.jpeg" style="zoom:55%;" name="square"/>
 
 + 布拉维格子（Bravais lattice）：晶体的美妙算法
 
   + 在漂亮的晶体之下，是原子有序排列的微观结构。
 
-    | <img src="/courses/ssp2020/figs/grains.jpg" style="zoom:60%;" name="square"/> |
+    | <img src="/courses/ssp2020/figs/grains.jpg" style="zoom:80%;"/> |
     | :----------------------------------------------------------: |
     | 非凡一念：晶体不断细分，由同样晶面角度、与整体具有相似形状的元胞 |
 
@@ -41,6 +41,10 @@ weight: 1
     (b) 数学定义：布拉维格子中的任意格点都可以表示为$R = \sum_i n_i \textbf{a}_i + r_0$，且公式不产生不属于格子中的点。式中$\{ a_i \}$为$d$个（$d$为空间维度）线性无关的向量，称为初基矢量（primitive vector）。$r_0$为某常数，当原点取在任一格点上时$r_0=0$。
 
     (c) 抽象定义：在加法下封闭的不共面矢量集合构成布拉维格子。
+    
+  + 非布拉维格子的描述：
+
+    非布拉维格子中的任意格点都可以表示为$R = \sum_i n_i \textbf{a}_i + \sum_j r_j$，表示先按照初基矢量集合{$\textbf{a}_i$}访问最近的布拉维格点，然后再按照{$r_j$}依次访问基元中$n$个不同的点（$j$从0跑到$n-1$）。
 
 + 常见二维格子
 
@@ -58,28 +62,85 @@ weight: 1
 
   + 常见三维格子有简单立方，面心立方，体心立方，六角密堆积等。
 
-    | <img src="/courses/ssp2020/figs/simplecubic.png" style="zoom:60%;" name="square"/> | <img src="/courses/ssp2020/figs/bcc.png" style="zoom:55%;" name="square"/> | <img src="/courses/ssp2020/figs/fcc.png" style="zoom:45%;" name="square"/> |
+    | <img src="/courses/ssp2020/figs/simplecubic.png" style="zoom:60%;" /> | <img src="/courses/ssp2020/figs/bcc.png" style="zoom:55%;" /> | <img src="/courses/ssp2020/figs/fcc.png" style="zoom:45%;" /> |
     | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
     | 简单立方(Simple Cubic, SC)                                   | 体心立方(Body-Centered Cubic, BCC)                           | 面心立方(Face-Centered Cubic, FCC)                           |
 
-  + 上述三种三维晶格，简单立方，体心立方，和面心立方均为布拉维格子，即每个基元仅仅包含一个原子。但有时为了方便讨论，会将BCC与FCC中的若干原子组合视为基元，按照简单立方。。。
+    ​	上述三种三维晶格，简单立方，体心立方，和面心立方，均为布拉维格子，每个基元仅仅包含一个原子。但有时为了方便讨论，会将体心立方与面心立方中的若干原子组合视为基元，按照简单立方布拉维格子展开生成，更好地体现了体心和面心立方的对称性，使用更为方便习惯(conventional)。
 
-### 2. 晶系分类
+  + 密堆积结构是一类非常特殊的晶体结构，常见的有六角密堆积和面心立方（没错，就是上面提到的BCC！）。
 
-+ 二维布拉维格子：4大晶系（crystal family）5种布拉维格子
+    | <img src="/courses/ssp2020/figs/closepacking0.png" style="zoom:75%;"/> | <img src="/courses/ssp2020/figs/hcp.png" style="zoom:60%;"/> | <img src="/courses/ssp2020/figs/fcc2.png" style="zoom:55%;"/> |
+    | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+    | 密堆积                                                       | 六方密堆积(Hexagonal Compact Packing, HCP)                   | 面心立方(Face-Centered Cubic, FCC)                           |
 
-   ![二维布拉维格子](/courses/ssp2020/figs/2DBravLatt.jpg)
+    从密堆积方式理解两种结构
 
-  + 单斜晶系(monoclinic net)：元胞为普通平行四边形
-  + 正交晶系(orthorhombic net)：元胞为长方形，包含简单长方和面心长方两种
-  + 六角晶系(hexagonal net)：元胞为菱形，初基矢量长度相等且夹60度（或120度）角
-  + 四角晶系(tetragonal net)：元胞为正方形
+    | <img src="/courses/ssp2020/figs/closepacking.png" style="zoom:60%;"/> |
+    | ------------------------------------------------------------ |
+    | 密堆积的A、B、C三种占位点                                    |
+    | <img src="/courses/ssp2020/figs/closepacking2.png" style="zoom:60%;"/> |
+    | 两种不同的密堆积分别形成六方密堆积和面心立方（还有无数种密堆积方式） |
+  
+    
+  
 
-+ 三维布拉维格子：7大晶系，14种布拉维格子
+****
 
-   ![三维布拉维格子](/courses/ssp2020/figs/3DBravLatt.jpg)
+### 2. 常见晶体结构
 
-  + 固体物理八卦一则：Frankenheim (1842) miscounted this number as 15, A. Bravais is the first one get a right counting (1845).
+下面列举几种常见的晶体材料结构。
+
++ 金刚石结构
+
+  | <img src="/courses/ssp2020/figs/diamond0.jpg" style="zoom:45%;"/> | <img src="/courses/ssp2020/figs/diamond.png" style="zoom:65%;"/> | <img src="/courses/ssp2020/figs/diamond1.png" style="zoom:95%;"/> | <img src="/courses/ssp2020/figs/zincblende.png" style="zoom:65%;"/> |
+  | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+  | 金刚石                                                       | $a=3.57 \overset{\circ}{\rm{A}}$                             | 俯视图                                                       | 类似结构：闪锌矿                                             |
+
+  + 金刚石结构由单质碳（C）组成，具有非常高的硬度。类似的单质结构还有硅（Si，$a=5.43 \overset{\circ}{\rm{A}}$），锗（Ge，$a=5.66 \overset{\circ}{\rm{A}}$）等晶体。
+
+  + 典型的闪锌矿结构晶体包括：碳化硅（SiC，$a=4.35 \overset{\circ}{\rm{A}}$），砷化镓（GaAs，$a=5.65 \overset{\circ}{\rm{A}}$）等晶体。
+  + 将每个碳原子视为抽象点，金刚石结构并非布拉维格子
+  + 选取2个碳原子组成基元（$r_0=(0,0,0)$和$r_1=(1/4,1/4,1/4)$），对应布拉维格子为面心立方
+  + 选取8个碳原子为基元（如何选取 {$r_j$}?），对应布拉维格子为简单立方。
+
++ NaCl晶体结构
+
+  | <img src="/courses/ssp2020/figs/nacl0.png" style="zoom:90%;"/> | <img src="/courses/ssp2020/figs/nacl.png" style="zoom:60%;"/> | <img src="/courses/ssp2020/figs/nacl1.jpg" style="zoom:180%;"/> |
+  | ------------------------------------------------------------ | ------------------------------------------------------------ | :----------------------------------------------------------- |
+  | 食盐晶体                                                     | $a=5.63\overset{\circ}{\rm{A}}$                              | 硬球模型                                                     |
+
+  + 具有和食盐类似晶体结构的有：氧化镁（MgO，$a=4.20\overset{\circ}{\rm{A}}$），氯化钾（KCl，$a=6.29\overset{\circ}{\rm{A}}$）等晶体。
+  + 氯化钠晶体由Na和Cl两种元素组成，取二者各1组成基元，则布拉维格子为面心立方。
+
++ CsCl晶体结构
+
+  | <img src="/courses/ssp2020/figs/cscl0.png" style="zoom:50%;"/> | <img src="/courses/ssp2020/figs/cscl.png" style="zoom:60%;"/> | <img src="/courses/ssp2020/figs/cscl1.jpg" style="zoom:190%;"/> |
+  | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+  | 氯化铯晶体                                                   | $a=4.11 \overset{\circ}{\rm{A}}$                             | 硬球模型                                                     |
+
+  + 粉末状的样品由微小的单晶组成。
+
+  + 取Cs和Cl两种元素个1个原子组成基元，则布拉维格子为简单立方（注意：CsCl晶体不是体心立方结构）。
+
++ 二维晶体材料——石墨烯（单层石墨）
+
+  | <img src="/courses/ssp2020/figs/graphene0.png" style="zoom:80%;"/> | <img src="/courses/ssp2020/figs/graphene.jpeg" style="zoom:150%;"/> |
+  | ------------------------------------------------------------ | ------------------------------------------------------------ |
+  | 石墨烯的扫描隧道显微镜照片                                   | 单层石墨烯结构示意图                                         |
+
+  + 英国物理学家安德烈·盖姆和康斯坦丁·诺沃肖洛夫，用微机械剥离法成功从石墨中分离出石墨烯。共同获得[2010年诺贝尔物理学奖](https://www.nobelprize.org/prizes/physics/2010/summary/)。
+  + 石墨烯具有高强度，高电导等优异的材料性能。
+
++ 双层魔转角石墨烯
+
+| <img src="/courses/ssp2020/figs/BTGNature.jpeg" style="zoom:10%;"/> | <img src="/courses/ssp2020/figs/BTG.jpg" style="zoom:150%;"/> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 莫里超晶格                                                   | AA，AB，BA, BB 标记不同区域                                  |
+
++ 由于双层魔转角石墨烯的独特[电子关联性质](https://www.nature.com/articles/nature26154)和[非常规超导电性](https://www.nature.com/articles/nature26160)，引起了凝聚态物理学界的广泛关注，可以阅读[Physics Today](https://physicstoday.scitation.org/doi/pdf/10.1063/PT.3.4384)的科普文章。
+
+****
 
 ### 3. 晶格元胞、填充率与晶面指数
 
@@ -99,11 +160,30 @@ weight: 1
 
     + Practical definitionn: the space contained by bisection lines/surfaces of the origin point to other Bravais lattice points. 
 
-       ![2D WS cell](/courses/ssp2020/figs/wscell2d.jpeg)
+      ![2D WS cell](/courses/ssp2020/figs/wscell2d.jpeg)
 
-       ![3D WS cell](/courses/ssp2020/figs/wscell3d.jpg)
+      ![3D WS cell](/courses/ssp2020/figs/wscell3d.jpg)
 
-      
+****
+
+### 4. 晶系分类与对称性
+
++ 二维布拉维格子：4大晶系（crystal family）5种布拉维格子
+
+   ![二维布拉维格子](/courses/ssp2020/figs/2DBravLatt.jpg)
+
+  + 单斜晶系(monoclinic net)：元胞为普通平行四边形
+  + 正交晶系(orthorhombic net)：元胞为长方形，包含简单长方和面心长方两种
+  + 六角晶系(hexagonal net)：元胞为菱形，初基矢量长度相等且夹60度（或120度）角
+  + 四角晶系(tetragonal net)：元胞为正方形
+
++ 三维布拉维格子：7大晶系，14种布拉维格子
+
+   ![三维布拉维格子](/courses/ssp2020/figs/3DBravLatt.jpg)
+
+  + 固体物理八卦一则：Frankenheim (1842) miscounted this number as 15, A. Bravais is the first one get a right counting (1845).
+
+  
 
 ## Slides & Video
 
@@ -126,8 +206,10 @@ weight: 1
 
 ## Homework
 
-1. 作为二维布拉维格子4大晶系的一组，四角晶系为何只有简单正方格子而无面心正方？同样，为何三维布拉维格子中只有体心四方而不存在底心四方格子？为何又存在底心正交？
-2. 作为一种有趣的二维材料晶格，kagome格子备受关注。其结构如图所示，请问其布拉维格子属于哪一种？并计算填充率(filling rate)。
+0. 一维布拉维晶格有多少种？
+1. 请阅读关于石墨烯的[公众介绍材料](https://www.nobelprize.org/uploads/2018/06/popular-physicsprize2010.pdf)与[科学背景材料](https://www.nobelprize.org/uploads/2018/06/advanced-physicsprize2010.pdf)，并提交阅读笔记。
+2. 作为二维布拉维格子4大晶系的一组，四角晶系为何只有简单正方格子而无面心正方？同样，为何三维布拉维格子中只有体心四方而不存在底心四方格子？为何又存在底心正交？
+3. 作为一种有趣的二维材料晶格，kagome格子备受关注。其结构如图所示，请问其布拉维格子属于哪一种？并计算填充率(filling rate)。
 
 ![kagome](/courses/ssp2020/figs/kagome.jpg)
 

@@ -44,7 +44,7 @@ weight: 1
 + 固体简明的微观结构是否意味着具有简单的固体性质？
 
   + "由基本粒子构成的，巨大和复杂的集聚体的行为不能依据少数粒子的性质做简单外推就能理解。而正好相反，在复杂系统的每一个层次，都会呈现出全新的规律。而要理解这些新行为，所需要做的研究，就其基础性而言与其他研究相比毫不逊色。"
-    + [P. Anderson—More is Different](/courses/ssp2020/refs/anderson1972.pdf)
+    + [P. Anderson—More is Different](/courses/ssp2020/refs/anderson1972.pdf) （[中译版](https://mp.weixin.qq.com/s/ie8yNAFmmNSviwdBGlkdXw)）
   + ”物理其实有两种不同的范式。长久以来，物理学家都在按“还原论”的范式，寻找拼成世界的那些最基本的“积木”以及它们遵循的规律，也取得了辉煌的成功。然而，这些却还不够，不同层次上还有不同的物理，“演生论”开始大展拳脚。” 
     + [物理世界话演生（向涛 院士）](https://www.bilibili.com/video/av90875778) 
     + [物理中的还原论与演生论](http://physics.buaa.edu.cn/info/1190/3497.htm)
