@@ -18,6 +18,18 @@ weight: 1
 
 ## X-Ray Diffraction
 
+### 0. 晶体的规则表面与有序结构
+
+<img src="/courses/ssp2020/figs/dioptase.jpeg" style="zoom:60%;" name="square"/>
+
++ 晶体从外观上能够识别吗？需要从微观层面考察晶体的微观结构！
+
+| ![紫水晶](/courses/ssp2020/figs/amethyst.jpg) | ![金属](/courses/ssp2020/figs/ion.jpg) | <img src="/courses/ssp2020/figs/turquoise.png" style="zoom:42%;" name="square"/> | <img src="/courses/ssp2020/figs/glasscrystal.jpg" style="zoom:100%;" name="square"/> |
+| --------------------------------------------- | -------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 紫水晶                                        | 金属铁                                 | 绿松石                                                       | 玻璃制品                                                     |
+
+
+
 ### 1. 倒易点阵 (Reciprocal lattice)
 
 + 
