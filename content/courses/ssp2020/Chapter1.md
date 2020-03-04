@@ -38,9 +38,9 @@ weight: 1
 
     (a) 直观定义：布拉维格子是格点的无限周期排列，其中每一个点都等价。即从任何一个格点看出去，晶格都是一模一样的，周边的环境都严格相同。
 
-    (b) 数学定义：布拉维格子中的任意格点都可以表示为$R = \sum_i n_i \textbf{a}_i + r_0$，且公式不产生不属于格子中的点。式中$\{ a_i \}$为$d$个（$d$为空间维度）线性无关的向量，称为初基矢量（primitive vector）。$r_0$为某常数，当原点取在任一格点上时$r_0=0$。
+    (b) 数学定义：布拉维格子中的任意格点都可以表示为$R = \sum_i n_i \textbf{a}_i + r_0$，且公式不产生不属于格子中的点。式中$\{ a_i \}$为$d$个（$d$为空间维度）线性无关的向量，称为初基矢量（primitive vector），$n_i$为整数。$r_0$为某常数，当原点取在任一格点上时$r_0=0$。
 
-    (c) 抽象定义：在加法下封闭的不共面矢量集合构成布拉维格子。
+    (c) 抽象定义：在加法下封闭的不共面的一组矢量集合构成布拉维格子。
     
   + 非布拉维格子的描述：
 
@@ -68,18 +68,18 @@ weight: 1
 
     ​	上述三种三维晶格，简单立方，体心立方，和面心立方，均为布拉维格子，每个基元仅仅包含一个原子。但有时为了方便讨论，会将体心立方与面心立方中的若干原子组合视为基元，按照简单立方布拉维格子展开生成，更好地体现了体心和面心立方的对称性，使用更为方便习惯(conventional)。
 
-  + 密堆积结构是一类非常特殊的晶体结构，常见的有六角密堆积和面心立方（没错，就是上面提到的BCC！）。
+  + 密堆积结构是一类非常特殊的晶体结构，常见的有六角密堆积和面心立方（没错，就是上面提到的FCC！）。
 
-    | <img src="/courses/ssp2020/figs/closepacking0.png" style="zoom:75%;"/> | <img src="/courses/ssp2020/figs/hcp.png" style="zoom:60%;"/> | <img src="/courses/ssp2020/figs/fcc2.png" style="zoom:55%;"/> |
+    | <img src="/courses/ssp2020/figs/closepacking0.png" style="zoom:70%;"/> | <img src="/courses/ssp2020/figs/hcp.png" style="zoom:55%;"/> | <img src="/courses/ssp2020/figs/fcc2.png" style="zoom:55%;"/> |
     | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
     | 密堆积                                                       | 六方密堆积(Hexagonal Compact Packing, HCP)                   | 面心立方(Face-Centered Cubic, FCC)                           |
 
     从密堆积方式理解两种结构
 
-    | <img src="/courses/ssp2020/figs/closepacking.png" style="zoom:60%;"/> |
+    | <img src="/courses/ssp2020/figs/closepacking.png" style="zoom:90%;"/> |
     | ------------------------------------------------------------ |
     | 密堆积的A、B、C三种占位点                                    |
-    | <img src="/courses/ssp2020/figs/closepacking2.png" style="zoom:60%;"/> |
+    | <img src="/courses/ssp2020/figs/closepacking2.png" style="zoom:80%;"/> |
     | 两种不同的密堆积分别形成六方密堆积和面心立方（还有无数种密堆积方式） |
   
     
@@ -93,7 +93,7 @@ weight: 1
 
 + 金刚石结构
 
-  | <img src="/courses/ssp2020/figs/diamond0.jpg" style="zoom:45%;"/> | <img src="/courses/ssp2020/figs/diamond.png" style="zoom:65%;"/> | <img src="/courses/ssp2020/figs/diamond1.png" style="zoom:95%;"/> | <img src="/courses/ssp2020/figs/zincblende.png" style="zoom:65%;"/> |
+  | <img src="/courses/ssp2020/figs/diamond0.jpg" style="zoom:65%;"/> | <img src="/courses/ssp2020/figs/diamond.png" style="zoom:50%;"/> | <img src="/courses/ssp2020/figs/diamond1.png" style="zoom:80%;"/> | <img src="/courses/ssp2020/figs/zincblende.jpg" style="zoom:50%;"/> |
   | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
   | 金刚石                                                       | $a=3.57 \overset{\circ}{\rm{A}}$                             | 俯视图                                                       | 类似结构：闪锌矿                                             |
 
@@ -130,39 +130,77 @@ weight: 1
   | 石墨烯的扫描隧道显微镜照片                                   | 单层石墨烯结构示意图                                         |
 
   + 英国物理学家安德烈·盖姆和康斯坦丁·诺沃肖洛夫，用微机械剥离法成功从石墨中分离出石墨烯。共同获得[2010年诺贝尔物理学奖](https://www.nobelprize.org/prizes/physics/2010/summary/)。
+
   + 石墨烯具有高强度，高电导等优异的材料性能。
+
+    
 
 + 双层魔转角石墨烯
 
-| <img src="/courses/ssp2020/figs/BTGNature.jpeg" style="zoom:10%;"/> | <img src="/courses/ssp2020/figs/BTG.jpg" style="zoom:150%;"/> |
+| <img src="/courses/ssp2020/figs/BTGNature.jpeg" style="zoom:90%;"/> | <img src="/courses/ssp2020/figs/BTG.jpg" style="zoom:120%;"/> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 莫里超晶格                                                   | AA，AB，BA, BB 标记不同区域                                  |
+| 莫里超晶格                                                   | AA，AB，BA 标记不同区域                                      |
 
-+ 由于双层魔转角石墨烯的独特[电子关联性质](https://www.nature.com/articles/nature26154)和[非常规超导电性](https://www.nature.com/articles/nature26160)，引起了凝聚态物理学界的广泛关注，可以阅读[Physics Today](https://physicstoday.scitation.org/doi/pdf/10.1063/PT.3.4384)的科普文章。
++ 由于双层魔转角石墨烯的独特[电子关联性质](https://www.nature.com/articles/nature26154)和[非常规超导电性](https://www.nature.com/articles/nature26160)，引起了凝聚态物理学界的广泛关注，可以阅读[Physics Today](https://physicstoday.scitation.org/doi/pdf/10.1063/PT.3.4384) 的科普文章。
 
 ****
 
-### 3. 晶格元胞、填充率与晶面指数
+### 3. 原胞、晶胞和填充率
 
-+ 元胞（unit cell）与魏格纳-赛兹元胞（ Wigner-Seitz cell）
++ 原胞（primitive cell）与晶胞（cell）
 
-  + 元胞是由布拉维格子初基矢量所构造的平行六面体（三维）或平行四边形（二维），元胞通过平移可以覆盖二维布拉维格子。
+  + 晶格的基本重复单元称为**晶胞**。晶胞周期地铺展可以不交叠地覆盖整个晶格结构。其中，最小的晶胞取法称为初基原胞（primitive cell），简称原胞。
+  + 严格的说，**原胞**是晶体结构对应**布拉维格子**基本重复单元的最小取法。需要恰当选取基元，找到晶体结构的布拉维格子后，可以定义其原胞。原胞的一个操作定义是：由布拉维格子初基矢量所构造的平行六面体（三维）或平行四边形（二维）组成。原胞取法不唯一，但体积/面积确定，仅包含一个基元，是我们讨论布拉维格子的最小基本单位。
+    + 按照其他习惯选择称为*惯用晶胞*（conventional cell），含有多个基元，一般非最小单元。
+    + 对于体心立方、面心立方而言，惯用晶胞分别为包含2个和4个基元的立方体（见下面讨论），是将若干个基元视为一个复合“基元“时的”原胞“。
+  + **晶胞**包含了结晶体的重要信息（原子种类、位置，对称性和平移矢量等等），是**晶体结构**的基本重复单元。考察具体材料的晶体结构，只需要考察其晶胞就可以了，对晶体学研究具有重要的意义。
+  
++ 二维晶格原胞举例
 
-  + Recipes for defining the **unit cell** of crystal
+  + 初基原胞
 
-    1. For a Bravais lattice, an unit cell is the *parallelepiped* constructed out of its *primitive* vectors.
-    2. For a general (Bravais or non-Bravais) lattice or real crystals, the unit cell can be constructed by (1) first identifying its underlying Bravais lattice *BL* (coule be itself in the simplest case) and (2) building up the unit cell using the primitive vectors of *BL*.
-    3. Some Bravais lattice, e.g., FCC or BCC, conventionally one is used to identify the cube containing more than 1 lattice points as its conventional unit cell.  Otherwise, we always follow rule 2 for defininng an unit cell of crystal structures.
+    <img src="/courses/ssp2020/figs/unitcelloblq.jpg" style="zoom:90%;"/>
 
-  + Definition of Wigner-Seitz cell
+    + （初基）原胞的选取不唯一，但面积相等，且仅包含一个基元（格点）。
+    + *问题：上图中哪几个是合法的元胞？哪几个不是？*
 
-    + The geometric points that are nearest to the origin Bravais lattice point **R**=0 than to  any other Bravais lattice points. 
+  + 惯用晶胞
 
-    + Practical definitionn: the space contained by bisection lines/surfaces of the origin point to other Bravais lattice points. 
+  | <img src="/courses/ssp2020/figs/rectangularlattice.jpg" style="zoom:92%;"/> | <img src="/courses/ssp2020/figs/centeredrectangle.jpg" style="zoom:100%;"/> |
+  | ------------------------------------------------------------ | ------------------------------------------------------------ |
+  | 简单长方                                                     | 有心长方                                                     |
 
-      ![2D WS cell](/courses/ssp2020/figs/wscell2d.jpeg)
+  **简单长方：** $a,b$构成的平行四边形是最小原胞的一种选取方式，由$c,d$构成的平行四边形呢？（*讨论*）
 
-      ![3D WS cell](/courses/ssp2020/figs/wscell3d.jpg)
+  **有心长方：** $a,b$构成的矩形是何种原胞？$c,d$呢？（*讨论*）
+
++ 三维晶格原胞举例
+
+  | <img src="/courses/ssp2020/figs/unitcell.png" style="zoom:100%;"/> |
+  | ------------------------------------------------------------ |
+  | 立方晶系三个成员（简单立方，体心立方与面心立方）的初基原胞和惯用晶胞 |
+
+  + **简单立方：**原胞为最小立方体。
+  + **体心立方:**  原胞为$\bf{a}_1, \bf{a}_2, \bf{a}_3$构造的平行六面体；惯用晶胞为图示立方体。
+  + **面心立方:**  原胞和惯用晶胞分别为何（*讨论*）。
+  + **问题：** 体心立方和面心立方的原胞和惯用晶胞体积分别是多少？
+
++ 魏格纳-赛兹原胞（ Wigner-Seitz unit cell）
+
+  | <img src="/courses/ssp2020/figs/wscell2d.jpeg" style="zoom:100%;"/> | <img src="/courses/ssp2020/figs/wscell3d.jpg" style="zoom:80%;"/> |
+  | ------------------------------------------------------------ | ------------------------------------------------------------ |
+  | 二维晶格的魏格纳赛兹原胞                                     | 三维晶格（面心立方和体心立方）的魏格纳赛兹原胞（正十二面体、截角八面体） |
+
+  + 魏格纳-赛兹原胞是这样的空间点的集合：即他们离布拉维格点**R**=0比离其他任何布拉维格点都近。
+
+  + 操作定义：被一个布拉维格点（原点）到其他所有格点所做的连线的平分线或平分面所包围的最小空间。
+  + **问题** ：简单正方、简单立方格子的魏格纳-赛兹原胞是什么？
+
++ 填充率计算（参见Sandro的视频讲义，以及喻舜尧同学的[笔记](/courses/ssp2020/notes/2020-02-11-P4.pdf)）
+
+  + 布拉维格子：填充率=硬球的体积/原胞体积 （*二维格子为面积比*）
+  + 非布拉维格子：硬球体积需要乘以原胞中的硬球数目
+  + 重要数字：二维密堆积填充率三角格子最大（$\frac{\sqrt{3} \pi}{6} \simeq$ 89%）；三维的密堆积填充率为$\frac{\sqrt{2} \pi}{6} \simeq $ 74%。
 
 ****
 
@@ -179,11 +217,48 @@ weight: 1
 
 + 三维布拉维格子：7大晶系，14种布拉维格子
 
-   ![三维布拉维格子](/courses/ssp2020/figs/3DBravLatt.jpg)
+  ![三维布拉维格子](/courses/ssp2020/figs/3DBravLatt.jpg)
 
-  + 固体物理八卦一则：Frankenheim (1842) miscounted this number as 15, A. Bravais is the first one get a right counting (1845).
+  + 固体物理八卦一则：Frankenheim (1842) miscounted this number as 15, A. Bravais is the first one who gets a right counting (1845).
 
-  
++ 布拉维格子反映的是晶格的平移对称性
+
+  + 加上转动对称性，给出布拉维格子的分类。
+
+  + 转动轴只有1，2，3，4，6 五种（*为何没有五度轴？*）。
+
+    | ![五度轴不存在](/courses/ssp2020/figs/absenceof5thaxis.jpg) |
+    | ----------------------------------------------------------- |
+    | 5度转动操作与平移对称不兼容（*如何证明*）                   |
+
+
+****
+
+### 5. 晶向与晶面指数
+
++ 布拉维格子中从某个格点（原点）指向另一个格点的矢量为晶向。互相平行的原子链称为晶向族[h,k,l]，布拉维格子可以分解为晶向族（*为什么？*）。
+
++ 布拉维格子可以分解为彼此平行、间距相等的晶面族。
+
+  ![三维布拉维格子](/courses/ssp2020/figs/millerindex.jpg)
+
++ **定理：** 三维布拉维格子的任意晶面均为二维布拉维格子。
+
+  因此三维布拉维格子可以被解理为二维布拉维晶面的堆砌。这些二维晶面按照不平行于晶面的晶格矢量“移动”，可以既不重复也不遗漏的覆盖整个三维晶格。
+
++ **晶面指数操作定义：** 选择某个布拉维格子为原点，同时选择一组初基矢量作为坐标轴，然后测量晶面族中任意一个成员（靠近原点为佳）在三个坐标轴上的截距$h,k,l$。则晶面指数为$(\frac{1}{h}, \frac{1}{k}, \frac{1}{l})$，为方便记，通常将三个分数通分后取整数。
+
+  ![晶面指数](/courses/ssp2020/figs/millerindexprac.jpg)
+
++ (1,0,0)晶面为平行于$y-z$平面的晶面，(1,0,0)与(0,1,0) ，(0,0,1)晶面等实质等价。(1,1,0)为平行$z$轴且与$x$，$y$轴各夹$\pm$45<sup>o</sup>的平行晶面族，依次类推。但是需要特别注意(1,1,2)晶面（如何证明其是一个合法的晶面编号？），与$z$轴截距处没有格点（即晶面指数的上述计算规则不必在坐标轴上切过格点）。
+
++ **问题：** 面心立方是哪个面堆叠起来形成密堆积结构的？（或者问，面心立方密堆面的晶面指数是什么） 
+
++ 对于体心立方和面心立方，通常不取初基矢量为轴，而是取惯用原胞的三个互相正交的$\hat{x}, \hat{y}, \hat{z} $ 方向为轴。这种对应惯用原胞取法的晶面指数称为米勒（Miller）指数。
+
++ **延伸：** 隐藏在操作定义背后的是引入与晶面垂直的法向方向来标记晶面。在引入倒格子（reciprocal lattice）的概念后，我们会证明晶面指数恰好定义了倒格子中的一族晶向，使得后者与晶面垂直。在立方晶系的情况下，倒格子的初基矢量与正格子相同，可以证明[h,k,l]晶向与(h,k,l)晶面垂直。
+
+****
 
 ## Slides & Video
 
@@ -207,9 +282,17 @@ weight: 1
 ## Homework
 
 0. 一维布拉维晶格有多少种？
+
 1. 请阅读关于石墨烯的[公众介绍材料](https://www.nobelprize.org/uploads/2018/06/popular-physicsprize2010.pdf)与[科学背景材料](https://www.nobelprize.org/uploads/2018/06/advanced-physicsprize2010.pdf)，并提交阅读笔记。
-2. 作为二维布拉维格子4大晶系的一组，四角晶系为何只有简单正方格子而无面心正方？同样，为何三维布拉维格子中只有体心四方而不存在底心四方格子？为何又存在底心正交？
+
+   ****
+
+2. a) 三角格子的魏格纳赛兹原胞是什么？计算魏格纳赛兹原胞的边长及面积。b) 六方密堆积结构的魏格纳赛兹原胞及体积为何？（晶格常数，等于密堆积的硬球直径，设为单位1）
+
 3. 作为一种有趣的二维材料晶格，kagome格子备受关注。其结构如图所示，请问其布拉维格子属于哪一种？并计算填充率(filling rate)。
 
-![kagome](/courses/ssp2020/figs/kagome.jpg)
+   <img src="/courses/ssp2020/figs/kagome.jpg" style="zoom:60%;"/>
 
+4. 作为二维布拉维格子4大晶系的一组，四角晶系为何只有简单正方格子而无面心正方？同样，为何三维布拉维格子中只有体心四方而不存在底心四方格子？为何又存在底心正交？
+
+   
