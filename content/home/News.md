@@ -67,16 +67,12 @@ subtitle = ""
 
 +++
 
-<img align='center' src='/img/tmgokey.jpg' width='600' hspace='36' />
-
-&nbsp;&nbsp;
-
-
 + Our recent work "Kosterlitz-Thouless Melting of Magnetic Order in the Triangular Quantum Ising Material TmMgGaO<sub>4</sub>" is published in [**Nature Communications  11**, 1111 (2020)](https://www.nature.com/articles/s41467-020-14907-8) , 28-Feb-2020. 
 
   BIG congratulations to Han Li and Bin-Bin Chen! 
 
   Check here for a  [popular-science-style introduction](https://mp.weixin.qq.com/s/o0LSGZtpmvOC0j1RvBP4_g) of our work (published via *[cpsjournals](www.cpsjournals.cn)*), [School of Physics News](http://physics.buaa.edu.cn/info/1097/4016.htm), and [University News](https://news.buaa.edu.cn/info/1002/51101.htm).
+
 
 + The 16-th Conference on Theoretical Magnetism will be held from 27 to 30 March, 2020, at the city of Yangzhou. 
   Online registration: http://mt2020.yzu.edu.cn. 

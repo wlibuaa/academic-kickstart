@@ -59,7 +59,7 @@ subtitle = "Welcome to CQM<sup>2</sup> Group!"
 <!--- <p/> --->
 
 <img align='right' src='/img/group.png' width='300' hspace='24' />
-Our research group at [Beihang University](https://www.buaa.edu.cn) is focusing on **emergent physics** such as criticality, topology, and fractionalization, etc., in **quantum manybody systems**. Strong interactions among atomic particles can lead to  materials, such as some high-temperature superconductors, with unusual electronic and magnetic properties. To explore these novel states of matter and their potential applications, we aim to develop simulation techniques, e.g., **tensor networks**, **renormalization group** and **deep learning techniques**, that provide reliable and accurate numerical access to thermal and dynamical properties of correlated quantum matter and materials. 
+Our research group at [Beihang University](https://www.buaa.edu.cn) is focusing on **emergent physics** such as criticality, topology, and fractionalization, etc., in **quantum manybody systems**. Strong interactions among atomic particles can lead to  materials, such as some high-temperature superconductors, with unusual electronic and magnetic properties. We aim to develop simulation techniques, e.g., **tensor networks**, **renormalization group**, and **deep learning techniques**, that provide reliable and accurate numerical access to thermal and dynamical properties of correlated systems. With state-of-the-art methods, we explore novel states of matter and reveal underlying manybody theory, in correlated materials that could possibily lead to intriguing applications in future quantum technology.
 
 ***
 

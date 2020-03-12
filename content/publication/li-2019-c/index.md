@@ -1,12 +1,14 @@
 ---
-title: "The Ghost of a Vanishing Stripe Order in the Triangular Quantum Ising Magnet TmMgGaO$_4$"
-date: 2019-07-01
-publishDate: 2020-02-16T23:34:37.721012Z
-authors: ["Han Li", "Yuan-Da Liao", "Bin-Bin Chen", "Xu-Tao Zeng", "Xian-Lei Sheng", "Yang Qi", "Zi Yang Meng", "Wei Li"]
+title: "Thermal Tensor Renormalization Group Simulations of Square-Lattice Quantum Spin Models"
+date: 2019-07-09
+publishDate: 2019-07-09T23:34:37.721012Z
+authors: ["Han Li", "Bin-Bin Chen", "Ziyu Chen", "Jan von Delft", "Andreas Weichselbaum", "Wei Li"]
 publication_types: ["2"]
-abstract: "Frustrated magnets host the promises of material realizations of new paradigm of quantum matter. However, due to their strongly correlated nature, direct comparison of unbiased model calculations with experiment results is still a challenge to the entire community. Here, we design and implement a protocol of employing quantum many-body computation methodologies -- quantum Monte Carlo and thermal tensor network methods -- to provide model exact calculation of both equilibrium and dynamical properties of a frustrated rare-earth magnet TmMgGaO$_4$ (TMGO) that perfectly explains the corresponding experimental findings. Our results confirm TMGO as an ideal realization of the transverse-field triangular lattice Ising model, and there emerge in its dynamical spectrum ghost images of the vanished magnetic stripe order, i.e., rotonlike excitation modes, representing the vortex-antivortex pair excitations. We propose that the TMGO material realizes at finite temperature a Kosterlitz-Thouless (KT) phase resembling that in a superfluid helium film, and further suggest experimental detections of KT physics using solid-state measurements in the quantum magnet."
+abstract: ""
 featured: false
-publication: "*ArXiv190708173 Cond-Mat*"
-tags: ["Condensed Matter - Statistical Mechanics", "Condensed Matter - Strongly Correlated Electrons"]
+publication: "*Phys. Rev. B*"
+tags: ["Statistical Physics", "Condensed Matter & Materials Physics"]
+doi: "https://doi.org/10.1103/PhysRevB.100.04511T"
 ---
 
+In this work, we benchmark the well-controlled and numerically accurate exponential thermal tensor renormalization group (XTRG) in the simulation of interacting spin models in two dimensions. Finite temperature introduces a finite thermal correlation length $\xi$, such that for system sizes $L \gg \xi$ finite-size calculations actually simulate the thermodynamic limit. In this paper, we focus on the square lattice Heisenberg antiferromagnet (SLH) and quantum Ising models (QIM) on open and cylindrical geometries up to width W=10. We explore various one-dimensional mapping paths in the matrix product operator (MPO) representation, whose performance is clearly shown to be geometry dependent. We benchmark against quantum Monte Carlo (QMC) data, yet also the series-expansion thermal tensor network results. Thermal properties including the internal energy, specific heat, and spin structure factors, etc. are computed with high precision, obtaining excellent agreement with QMC results. XTRG also allows us to reach remarkably low temperatures. For SLH, we obtain an energy per site $u_g^*$≃−0.6694(4) and a spontaneous magnetization $m_S^*\simeq$0.30(1) already consistent with the ground-state properties, which is obtained from extrapolated low-T thermal data on W≤8 cylinders and W≤10 open strips, respectively. We extract an exponential divergence versus T of the structure factor S(M), as well as the correlation length ξ, at the ordering wave vector M=(π,π), which represents the renormalized classical behavior and can be observed over a narrow but appreciable temperature window, by analyzing the finite-size data by XTRG simulations. For the QIM with a finite-temperature phase transition, we employ several thermal quantities, including the specific heat, Binder ratio, as well as the MPO entanglement to determine the critical temperature $T_c$.
