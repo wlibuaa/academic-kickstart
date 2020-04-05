@@ -275,7 +275,7 @@ weight: 1
 
 + 粉末法：单色光在粉末多晶上，相当于同时转动多个晶体样本，同时看到多个晶面，效率高
 
-  | <img src="/courses/ssp2020/figs/debye_method.jpg" style="zoom:60%;" name=""/> | <img src="/courses/ssp2020/figs/powder_XRD_rslt.jpg" style="zoom:60%;" name=""/> |
+  | <img src="/courses/ssp2020/figs/debye_method.jpg" style="zoom:115%;" name=""/> | <img src="/courses/ssp2020/figs/powder_XRD_rslt.jpg" style="zoom:100%;" name=""/> |
   | ------------------------------------------------------------ | ------------------------------------------------------------ |
   | 德拜（粉末）法                                               | 粉魔法观察的衍射图谱                                         |
 
@@ -285,7 +285,7 @@ weight: 1
   | ------------------------------------------------------------ |
   | (a)和(b)何者为有序相，何者为无序相？                         |
 
-*问题：*请写下两种相的结构因子，并判断图中衍射条纹分别属于哪种相。假设Au和Cu的原子形状因子分别是$f_{\rm{Au}$和$f_{\rm{Cu}$。
+*问题：* 请写下两种相的结构因子，并判断图中衍射条纹分别属于哪种相。假设Au和Cu的原子形状因子分别是$f_{Au}$和$f_{Cu}$。
 
 ## Slides & Video
 

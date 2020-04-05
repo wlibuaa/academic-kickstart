@@ -54,7 +54,7 @@ weight: 1
 
   | <img src="/courses/ssp2020/figs/vandewaals.jpg" style="zoom:100%;" name="square"/> |
   | ------------------------------------------------------------ |
-  | 范德瓦尔斯力的瞬时产生机制。在生物现象中也存在，例如壁虎的爪子。 |
+  | 范德瓦尔斯力的瞬时产生机制。瓦德瓦尔斯相互作用非常普遍，在生物现象中也存在，例如壁虎的爪子。 |
 
 + 偶极相互作用的理想模型
 
@@ -82,56 +82,130 @@ weight: 1
 
     有时也简记 $A = 4 \epsilon \sigma^{12}$，$B = 4 \epsilon \sigma^{6}$。
 
-  + 勒纳德—琼斯势保证了两个原子在距离近时互相排斥，距离远时互相吸引，存在一定的平衡位置。
+  + 勒纳德—琼斯势保证了两个原子在距离近时互相排斥，距离远时互相吸引，存在一定的平衡位置。在平衡位置处，晶体总势能为负，其绝对值即结合能。
 
     | <img src="/courses/ssp2020/figs/LJpotential.jpg" style="zoom:100%;" name="square"/> |
     | ------------------------------------------------------------ |
     | 勒纳德—琼斯势：存在平衡位置$R_0\simeq 1.12 \sigma$处*（如何证明？作业）*，平衡位置左边（短距离）曲线上升陡峭，迅速变为正值；右边（长距离）则变化相对平缓，逐渐趋向0能。 |
 
-    
-
-  
-
 ****
 
 ### 3. 共价键晶体
 
-+ ​	
++ 与范德瓦尔斯键不同，共价键是一种很强的化学键，在金刚石、硅、锗等单质，各种有机化合物中十分常见。
 
-+ 
++ 共价键的三个特征：**饱和性**（电子配对），**方向性**（轨道相关）。
+
++ 最简单的共价键：氢分子中两个原子之间共享一对电子形成共价键。
+
+  | <img src="/courses/ssp2020/figs/covalent.png" style="zoom:100%;" name="square"/> |
+  | ------------------------------------------------------------ |
+  | 氢分子中的两个原子各自贡献一个电子，形成共价键，在键中心区域电子密度高，形成键合，将两个氢原子束缚在一起形成分子。 |
+
+  + 分子轨道理论：形成共价键的两个电子不再围绕各自的原子核运动（原子轨道），而是在二者的组合—分子轨道上运动。不难知道这样的分子轨道有两个（成键与反键）：
+
+    $\psi_a(r_1,r_2) = \phi_1(r_1) \phi_2(r_2) - \phi_1(r_2) \phi_2(r_1)$
+
+    $\psi_s(r_1,r_2) = \phi_1(r_1) \phi_2(r_2) + \phi_1(r_2) \phi_2(r_1)$
+
+    （*问: $\psi_a$与$\psi_s$哪个是成键轨道，哪个是反键？*）
+
+  + 对应于对称与反对称空间轨道部分，需要有反对称（singlet）与对称（triplet）自旋部分与之相乘，使得整个双电子波函数满足费米-狄拉克统计。
+  + 一个有趣的联系——**量子磁性**：看起来共价键成键与反键的能量差取决于自旋形成单态还是三重态，因此两个轨道能量可以形式上写成 $J S_1 \cdot S_2$，称为自旋交换积分$J = \Delta E$，而$\Delta E$为成键轨道与反键轨道能量差。事实上正是这“自旋-自旋耦合”导致了磁性的产生（磁性的本质起源为量子力学的）。
+
++ sp<sup>3</sup>杂化与正四面体键：金刚石结构的C-C化学键
+
+  | <img src="/courses/ssp2020/figs/tetrahedral_bond.jpg" style="zoom:100%;" name="square"/> |
+  | ------------------------------------------------------------ |
+  | 金刚石结构（锗）的电子密度与四面体键                         |
+
+  + C原子的外层电子排布：
+
+    | 1s                    | 2s                    | 2p         | 2p         |
+    | --------------------- | --------------------- | ---------- | ---------- |
+    | $\uparrow \downarrow$ | $\uparrow \downarrow$ | $\uparrow$ | $\uparrow$ |
+
+  + 不难看到，C原子外层只有两个未配对电子（2p），为了实现与附近4个原子形成共价键，首先发生一次sp<sup>3</sup>杂化，电子排布变为：
+
+    | 1s                    | sp<sup>3</sup> | sp<sup>3</sup> | sp<sup>3</sup> | sp<sup>3</sup> |
+    | --------------------- | -------------- | -------------- | -------------- | -------------- |
+    | $\uparrow \downarrow$ | $\uparrow$     | $\uparrow$     | $\uparrow$     | $\uparrow$     |
+
+    其中sp<sup>3</sup>轨道为
+
+    $h_1 = \frac{1}{2} (| s \rangle + | p_x \rangle + | p_y \rangle + | p_z \rangle)$
+
+    $h_2 = \frac{1}{2} (| s \rangle + | p_x \rangle - | p_y \rangle - | p_z \rangle)$
+
+    $h_3 = \frac{1}{2} (| s \rangle - | p_x \rangle + | p_y \rangle - | p_z \rangle)$
+
+    $h_4 = \frac{1}{2} (| s \rangle - | p_x \rangle - | p_y \rangle + | p_z \rangle)$
+
+    （*作业：证明四个轨道正交归一*）
+
+    | <img src="/courses/ssp2020/figs/sp3hybrid.jpg" style="zoom:100%;" name="square"/> |
+    | ------------------------------------------------------------ |
+    | sp<sup>3</sup> 杂化轨道                                      |
+
+  + 虽然发生sp<sup>3</sup>需要“消耗”一些能量，然而由于多形成了2个共价键，完全可以“补偿”这部分损失，并获得很大的晶体结合能（金刚石中高达7.4 eV！）。
+
+  + 对于上面讨论的H-H，C-C共价键，电子处于键中央的对称位置，共价键为非极性的；然而，对于两个原子电负性（吸收一个电子释放出的能量）不同时，共价键具有极性。当电负性差异很大时，从需要使用量子力学计算的共价键结合方式连续过渡到准经典的离子键。
 
 ****
 
 ### 4. 离子键晶体
 
-+ 
++ NaCl，CsCl等电负性很强的卤族元素与容易丢失电子的金属元素结合，可以采用半经典理论直接处理，即离子键。
 
-+ 
++ 金属原子丢失电子，卤族俘获电子，阴离子与阳离子都形成满壳层结构，但是分别带正负电荷，在此过程中存在离子化能量（由中性原子变为离子）。再将离子从无穷远处移动到晶格上，可以按照经典静电场计算结合能。
+
++ 设离子间的平衡位置间距为$R$，且离子所带电荷为$\pm q$，则所有其他格点$j$对格点$i$处离子的静电能（称为马德隆能）为$U_{i} = \sum_j \pm \frac{1}{p_{ij}} \frac{q^2}{R}$，$p_{ij}$为$j$处离子到$i$处离子的距离（以$R$为单位）。
+
++ 定义马德隆常数 $\alpha =  \sum_j^{'} \pm \frac{1}{p_{ij}}$，则马德隆能为$U_i=\alpha \frac{q^2}{R}$。
+
++ 马德隆常数计算：
+
+  + 一维情况：$\alpha = 2 (1-1/2+1/3-1/4 + ...) = 2\ln{2}$
+
+    | <img src="/courses/ssp2020/figs/Madelung1D.png" style="zoom:100%;" name="square"/> |
+    | ------------------------------------------------------------ |
+    | 一维离子晶体                                                 |
+    | <img src="/courses/ssp2020/figs/Madelung1D_rslt.png" style="zoom:80%;" name="square"/> |
+    | 马德隆常数的数值结果                                         |
+
+  + 三维情况（NaCl为例）
+
+    <img src="/courses/ssp2020/figs/Madelung3D_cube.jpg" style="zoom:100%;" name="square"/>
+
++ 离子键是一种强键合，离子晶体熔点高，硬度强。
 
 ****
 
 ### 5. 金属键晶体
 
-+ 
++ 金属中带负电的电子云自由运动，充当媒介，将阳离子键合起来。
 
-+ 
+<img src="/courses/ssp2020/figs/metallicbond.jpg" style="zoom:100%;" name="square"/>
 
 ****
 
 ### 6. 氢键晶体
 
-+ 
++ 氢原子中的电子几乎被氧原子俘获，质子“裸露”在外，与另一个靠近的氧离子发生静电吸引，称为氢键。
 
-+ 
+<img src="/courses/ssp2020/figs/hydrobond.jpg" style="zoom:100%;" name="square"/>
+
++ 冰中的氢与氧形成共价键或氢键的选择具有一定随机性，但需要保证每一个氧所对应的4个键中2个为共价键，2个为氢键（2进2出），称为冰规则。
++ 由于具有宏观大的简并度，冰即便降至零温度，也存在非零的均格点熵，称为零温熵。
 
 ## Slides & Video
 
-+ Slides for Chapter 3 can be downloaded [![here](/courses/ssp2020/figs/coverc3.jpg "Wei Li")](/courses/ssp2020/slides/slidesc2.pdf)  
++ Slides for Chapter 3 can be downloaded [![here](/courses/ssp2020/figs/coverc3.jpg "Wei Li")](/courses/ssp2020/slides/slidesc3.pdf)  
 
 + Video lectures (two, by Sandro Scandolo, ICTP), please click the icon below.
 
-  + [Lecture 05](https://www.bilibili.com/video/av47845416?p=5)
-  + [Lecture 06](https://www.bilibili.com/video/av47845416?p=6)
+  + [Lecture 07](https://www.bilibili.com/video/av47845416?p=7)
+  + [Lecture 08](https://www.bilibili.com/video/av47845416?p=8)
   
 
 ## Discussions
@@ -142,14 +216,21 @@ weight: 1
 
 ## Homework
 
-+ 1. 根据勒纳德-琼斯势，计算平衡位置$R_0$，以及结合能$U(R_0)$的表达式。
+1. 根据勒纳德-琼斯势，计算平衡位置$R_0$，以及结合能$U(R_0)$的表达式。
 
-     [assigned: XX-March-2020, due: XX-March-2020]
+2. 为维持NaCl晶体稳定，除静电吸引相互作用之外，需在最近邻离子之间引入排斥相互作用，有两种引入方式： (a) $\lambda e^{-R/\rho}$（$\rho$为特征长度）或 (b) $B/R^n$（$B$为某常数，$n$为某正整数）。假设马德隆常数为$\alpha$，请考虑(a)和(b)两种不同的排斥势，写下平衡位置$R_0$需要满足的方程，并计算在平衡位置处的马德隆能。
 
-     
+3. 估算(a)二维正方格子，(b)六角格子上的马德隆常数。
 
-     
+   | <img src="/courses/ssp2020/figs/Madelung_honeycomb.png" style="zoom:60%;" name="square"/> | <img src="/courses/ssp2020/figs/Madelung_honeycomb_approx.jpg" style="zoom:130%;" name="square"/> |
+   | ------------------------------------------------------------ | ------------------------------------------------------------ |
+   | (a) 六角格子，蓝色和红色分别代表两种离子占据位置。           | (b) 采用上述晶胞估算马德隆常数                               |
 
-     
+  [assigned: 20-March-2020, due: 27-March-2020]
+
+
+
+
+
 
 
