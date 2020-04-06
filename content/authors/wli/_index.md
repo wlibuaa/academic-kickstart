@@ -21,12 +21,7 @@ organizations:
 bio: Wei Li is a computational condensed matter physicist working at Beihang University
 
 interests:
-- Manybody Problem and Tensor Networks
-- Emergent Physics in Quantum Magnets
-
-- Non-abelian symmetry and tensor networks, NSFC 11504014, 2016.01-2018.12
-- Quantum Manybody Computation Methods and Applications, NSFC 11834014, 2019.01-2022.12
-- Thermal Tensor Networks for Frustrated Quantum Magnets, NSFC 11974036, 2020.01-2023.12
+- Quantum Manybody Problem and Emergent Physics
 
 education:
   courses:
