@@ -33,21 +33,18 @@ This solid-state-theory Master course is for graduate students majored in **Cond
 
 ## Syllabus
 
-Chapter 0: Introduction [2 hours]
+第1章：二次量子化与费米液体理论
 
-+ Solid State Material, Condensed Matter, and Quantum Matter
-+ Sructure, Property, and Performance 
+第2章：格林函数和线性响应
 
-Chapter 1: Crystal Structures [6 hours]
+第3章：相互作用电子系统，屏蔽和等离激元
 
-+ Basis and Bravais lattice 
-+ Primitive vector and unit cell
-+ Reciprocal Lattice and Miller index
+第4章：金属中的局域磁矩与近藤效应
 
-Chapter 2: X-Ray Diffraction [4 hours]
+第5章：电声相互作用与超导
 
-+ Laue formula
-+ Bragg's law
-+ Geometric and form factors
+第6章：海森堡模型与自旋波激发
+
+第7章：一维量子系统玻色化
 
  
