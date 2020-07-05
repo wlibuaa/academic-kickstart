@@ -66,6 +66,10 @@ subtitle = ""
  css_class = ""
 
 +++
++ Our recent work "Automatic Differentiation for Second Renormalization of Tensor Networks" is published in 
+[PHYS. REV. B 101, 220409(R) (2020)](https://link.aps.org/doi/10.1103/PhysRevB.101.220409), 23-Jun-2020.
+  Our code implementation in PyTorch is publicly available at this [GitHub repo](https://github.com/TensorBFS/dTRG). 
+
 
 + Our recent work "Kosterlitz-Thouless Melting of Magnetic Order in the Triangular Quantum Ising Material TmMgGaO<sub>4</sub>" is published in [**Nature Communications  11**, 1111 (2020)](https://www.nature.com/articles/s41467-020-14907-8) , 28-Feb-2020. 
 
