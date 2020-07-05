@@ -16,6 +16,7 @@ weight: 2
 
 Here we introduce basics on crystal structures.
 
-## Tips
+## 作业
 
-
+1.推导费米液体的顺磁磁化率
+2.写出费米子系统的涨落耗散定理，并用谱表示证明

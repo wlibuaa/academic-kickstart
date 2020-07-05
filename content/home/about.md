@@ -77,5 +77,5 @@ Our research group at [Beihang University](https://www.buaa.edu.cn) is focusing 
 ## Projects:
 
 - Non-abelian symmetry and tensor networks, NSFC Junior Project: 11504014, 2016.01-2018.12
-- Quantum Manybody Computation Methods and Applications, NSFC Keypoint Project: 11834014, 2019.01-2022.12
+- Quantum Manybody Computation Methods and Applications, NSFC Key Project: 11834014, 2019.01-2022.12
 - Thermal Tensor Networks for Frustrated Quantum Magnets, NSFC General Project: 11974036, 2020.01-2023.12
