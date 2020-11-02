@@ -24,7 +24,7 @@ interests:
 
 education:
   courses:
-  - course: BSc in Applied Physics
+  - course: B.S. in Applied Physics
     institution: Beihang University
     year: 2015
 
@@ -41,9 +41,9 @@ social:
   link: https://github.com/RealBunbun
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv_BBC.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "bunbun.d.chan@gmail.com"
@@ -53,3 +53,13 @@ email: "bunbun.d.chan@gmail.com"
 user_groups:
 - PhD Students
 ---
+My research interest focuses on efficient numerical simulations within the tensor network state ansatz,
+to tackle novel phenomena in quantum manybody systems, including quantum spin liquid, unconventional 
+superconductivity, topological states, etc. 
+
+Working on the PyTorch library as well as the QSpace library, I have developed several efficient thermal 
+tensor network methods, e.g. series expansion thermal tensor network (SETTN), exponential tensor 
+renormalization group (XTRG) and differentiable tensor renormalization group ($\partial$TRG) for 
+accurate thermal simulations of quantum manybody systems.
+
+
