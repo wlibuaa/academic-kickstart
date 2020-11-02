@@ -22,7 +22,7 @@ bio:
 
 # List each interest with a dash
 interests:
-- Quantum Critical Thermodynamics
+- Tensor Network Algorithms 
 
 education:
   courses:
