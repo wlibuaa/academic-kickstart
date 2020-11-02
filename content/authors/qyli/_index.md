@@ -26,12 +26,9 @@ interests:
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: B.S. in Physics 
+    institution: Beihang University
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "liqiaoyi16191014@buaa.edu.cn".
+  link: 'mailto:liqiaoyi16191014@buaa.edu.cn'  # For a direct email link, use "liqiaoyi16191014@buaa.edu.cn".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
