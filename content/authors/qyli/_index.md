@@ -22,7 +22,7 @@ bio:
 
 # List each interest with a dash
 interests:
-- Random Quantum Magnets
+- Quantum Magnets
 
 education:
   courses:
