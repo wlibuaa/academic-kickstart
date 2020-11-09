@@ -22,7 +22,7 @@ bio:
 
 # List each interest with a dash
 interests: 
-- 2D Quantum Magnets
+- Quantum Magnets
 
 education:
   courses:
