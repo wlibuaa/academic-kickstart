@@ -21,7 +21,7 @@ organizations:
 bio: Wei Li is a computational condensed matter physicist working at Beihang University
 
 interests:
-- Quantum Manybody Physics
+- Quantum Many-body Physics
 
 education:
   courses:
