@@ -68,7 +68,7 @@ subtitle = ""
 +++
 + Our work "Evidence of the Berezinskii-Kosterlitz-Thouless phase in a frustrated magnet" is published in [**Nature Communications  11**, 5631 (2020)](https://www.nature.com/articles/s41467-020-19380-x) , 06-Nov-2020. 
 
-  Congratulations to Han Li, and this is our second Nature Commun. on TMGO at year 2020!
+  Congratulations to Han Li, and this is our second Nature Communications on TMGO at year 2020!
 
   Check here for [School of Physics News](http://physics.buaa.edu.cn/info/1097/4490.htm), and [University News](https://news.buaa.edu.cn/info/1002/52849.htm).
 
