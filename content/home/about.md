@@ -66,11 +66,10 @@ Our research group at [Beihang University](https://www.buaa.edu.cn) is focusing 
 <img align='right' src='/img/KeyImage.png' width='300' hspace='24' />
 
 ## Research:
-+ Thermal Tensor Networks and Statistical Many-body Physics
-+ Frustrated Quantum Magnets and Emergent Phenomena
-+ Strongly Correlated Electrons and Dynamics
-+ Topological States and Phase Transitions
-+ Universal Thermodynamics and Magnetocaloric Effects
++ Tensor Renormalization Group Methods and its Application in Quantum Many-body Physics
++ Frustrated Quantum Magnets and Emergent Collective Phenomena
++ Strongly Correlated Electrons and Superconductivity 
++ Quantum Spin Chain and Magnetocaloric Effects
 
 ****
 
