@@ -66,6 +66,10 @@ subtitle = ""
  css_class = ""
 
 +++
++ Our recent work "Universal thermodynamics in the Kitaev fractional liquid" is published in 
+[PHYS. REV. RESEARCH 2, 043015 (2020)](https://doi.org/10.1103/PhysRevResearch.2.043015), 2-Oct-2020.
+Cheers!
+
 + Our recent work "Automatic Differentiation for Second Renormalization of Tensor Networks" is published in 
 [PHYS. REV. B 101, 220409(R) (2020)](https://link.aps.org/doi/10.1103/PhysRevB.101.220409), 23-Jun-2020.
   Our code implementation in PyTorch is publicly available at this [GitHub repo](https://github.com/TensorBFS/dTRG). 
