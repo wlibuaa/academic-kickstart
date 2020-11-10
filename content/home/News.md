@@ -66,16 +66,22 @@ subtitle = ""
  css_class = ""
 
 +++
-+ Our recent work "Universal thermodynamics in the Kitaev fractional liquid" is published in 
-[PHYS. REV. RESEARCH 2, 043015 (2020)](https://doi.org/10.1103/PhysRevResearch.2.043015), 2-Oct-2020.
++ Our work "Evidence of the Berezinskii-Kosterlitz-Thouless phase in a frustrated magnet" is published in [**Nature Communications  11**, 5631 (2020)](https://www.nature.com/articles/s41467-020-19380-x) , 06-Nov-2020. 
+
+  Congratulations to Han Li, and this is our second Nature Commun. on TMGO at year 2020!
+
+  Check here for [School of Physics News](http://physics.buaa.edu.cn/info/1097/4490.htm), and [University News](https://news.buaa.edu.cn/info/1002/52849.htm).
+
++ Our work "Universal thermodynamics in the Kitaev fractional liquid" is published in 
+[Phys. Rev. Research 2, 043015 (2020)](https://doi.org/10.1103/PhysRevResearch.2.043015), 2-Oct-2020.
 Cheers!
 
-+ Our recent work "Automatic Differentiation for Second Renormalization of Tensor Networks" is published in 
-[PHYS. REV. B 101, 220409(R) (2020)](https://link.aps.org/doi/10.1103/PhysRevB.101.220409), 23-Jun-2020.
++ Our work "Automatic Differentiation for Second Renormalization of Tensor Networks" is published in 
+[Phys. Rev. B 101, 220409(R) (2020)](https://link.aps.org/doi/10.1103/PhysRevB.101.220409), 23-Jun-2020.
   Our code implementation in PyTorch is publicly available at this [GitHub repo](https://github.com/TensorBFS/dTRG). 
 
 
-+ Our recent work "Kosterlitz-Thouless Melting of Magnetic Order in the Triangular Quantum Ising Material TmMgGaO<sub>4</sub>" is published in [**Nature Communications  11**, 1111 (2020)](https://www.nature.com/articles/s41467-020-14907-8) , 28-Feb-2020. 
++ Our work "Kosterlitz-Thouless Melting of Magnetic Order in the Triangular Quantum Ising Material TmMgGaO<sub>4</sub>" is published in [**Nature Communications  11**, 1111 (2020)](https://www.nature.com/articles/s41467-020-14907-8) , 28-Feb-2020. 
 
   BIG congratulations to Han Li and Bin-Bin Chen! 
 
