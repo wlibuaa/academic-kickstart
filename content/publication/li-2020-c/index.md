@@ -1,6 +1,6 @@
 ---
 title: "Evidence of the Berezinskii-Kosterlitz-Thouless phase in a frustrated magnet"
-date: 2020-01-01
+date: 2020-11-01
 publishDate: 2020-11-10T12:17:07.555505Z
 authors: ["Ze Hu", "Zhen Ma", "Yuan-Da Liao", "Han Li", "Chunsheng Ma", "Yi Cui", "Yanyan Shangguan", "Zhentao Huang", "Yang Qi", "Wei Li", "Zi Yang Meng", "Jinsheng Wen", "Weiqiang Yu"]
 publication_types: ["2"]
