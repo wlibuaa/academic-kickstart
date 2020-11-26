@@ -66,6 +66,8 @@ subtitle = ""
  css_class = ""
 
 +++
++ Our work "Learning Effective Spin Hamiltonian of Quantum Magnet" is submitted to [arXiv:2011.12282](https://arxiv.org/abs/2011.12282), 24-Nov-2020.Congratulations!
+
 + Our work "Evidence of the Berezinskii-Kosterlitz-Thouless phase in a frustrated magnet" is published in [**Nature Communications  11**, 5631 (2020)](https://www.nature.com/articles/s41467-020-19380-x) , 06-Nov-2020. 
 
   Congratulations to Han Li, and this is our second Nature Communications on TMGO at year 2020!
