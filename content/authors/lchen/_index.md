@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Lei Chen"
+title: "Lei Chen"
 
 # Username (this should match the folder name and the name on publications)
 authors:

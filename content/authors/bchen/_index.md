@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Bin-Bin Chen
+title: Bin-Bin Chen
 
 # Username (this should match the folder name)
 authors:

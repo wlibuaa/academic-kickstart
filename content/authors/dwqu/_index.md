@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Dai-Wei Qu"
+title: "Dai-Wei Qu"
 
 # Username (this should match the folder name and the name on publications)
 authors:
