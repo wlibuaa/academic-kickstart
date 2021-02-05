@@ -66,9 +66,13 @@ subtitle = ""
  css_class = ""
 
 +++
++ Our work "Quantum many-body simulations of the two-dimensional Fermi-Hubbard model in ultracold optical lattices" is published in 
+[Phys. Rev. B **103**, L041107](https://doi.org/10.1103/PhysRevB.103.L041107), 19-Jan-2021.
+
+
 + Our work "Learning Effective Spin Hamiltonian of Quantum Magnet" is submitted to [arXiv:2011.12282](https://arxiv.org/abs/2011.12282), 24-Nov-2020.Our source code implementation in Jupyter Notebook is publicly available at this [GitHub repo](https://github.com/QMagen). 
 
-+ Our work "Evidence of the Berezinskii-Kosterlitz-Thouless phase in a frustrated magnet" is published in [**Nature Communications  11**, 5631 (2020)](https://www.nature.com/articles/s41467-020-19380-x) , 06-Nov-2020, and also selected as [Nature Communications Highlight](https://www.nature.com/collections/rcdhyvxytb/content/wei-fan) !
++ Our work "Evidence of the Berezinskii-Kosterlitz-Thouless phase in a frustrated magnet" is published in [**Nature Communications  11**, 5631 (2020)](https://www.nature.com/articles/s41467-020-19380-x) , 06-Nov-2020, and also selected as [Edito'rs Highlight](https://www.nature.com/collections/rcdhyvxytb/content/wei-fan) !
 
   Congratulations to Han Li, and this is our second Nature Communications on TMGO at year 2020!
 
@@ -90,5 +94,4 @@ Cheers!
   Check here for a  [popular-science-style introduction](https://mp.weixin.qq.com/s/o0LSGZtpmvOC0j1RvBP4_g) of our work (published via *[cpsjournals](www.cpsjournals.cn)*), [School of Physics News](http://physics.buaa.edu.cn/info/1097/4016.htm), and [University News](https://news.buaa.edu.cn/info/1002/51101.htm).
 
 
-+ The 16-th Conference on Theoretical Magnetism will be held from 27 to 30 March, 2020, at the city of Yangzhou. 
-  Online registration: http://mt2020.yzu.edu.cn. 
+
