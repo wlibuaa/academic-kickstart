@@ -59,17 +59,18 @@ subtitle = "Welcome to CQM<sup>2</sup> Group!"
 <!--- <p/> --->
 
 <img align='right' src='/img/group.png' width='300' hspace='24' />
-Our research group at [Beihang University](https://www.buaa.edu.cn) is focusing on **many-body physics** such as correlation effects and topological phases in **quantum matter**. Strong interactions among atomic particles can lead to  materials, such as some high-temperature superconductors, with unusual electronic and magnetic properties. We aim to develop quantum many-body simulation techniques, e.g., **tensor networks**, **renormalization group**, and **deep learning techniques**, that provide reliable and accurate numerical access to thermal and dynamical properties of correlated systems. With state-of-the-art methods, we explore novel states of matter and reveal underlying manybody theory, in correlated materials that could possibily lead to intriguing applications in future quantum technology.
+Our research group at [ITP](http://itp.cas.cn) and [BeihangU](https://www.buaa.edu.cn) is focusing on **emergent many-body physics** and **ultra quantum states of matter** due to the intriguing interplay between correlation and topology. Strong interactions among atomic particles can lead to  materials, such as some high-temperature superconductors, with unusual electronic and magnetic properties. We aim to develop quantum many-body simulation techniques, e.g., **tensor networks**, **renormalization group**, and **deep learning techniques**, that provide reliable and accurate numerical access to thermal and dynamical properties of correlated systems. With state-of-the-art methods, we explore novel states of matter and reveal underlying manybody theory, in correlated materials that could possibily lead to intriguing applications in future quantum technology.
 
 ***
 
 <img align='right' src='/img/KeyImage.png' width='300' hspace='24' />
 
-## Research:
-+ Tensor Renormalization Group Methods and its Application in Quantum Many-body Physics
-+ Frustrated Quantum Magnets and Emergent Collective Phenomena
-+ Strongly Correlated Electrons and Superconductivity 
-+ Quantum Spin Chain and Magnetocaloric Effects
+## Research Interest:
++ Quantum Many-body Theory and Computations
++ Ground-State and Thermal Tensor Networks 
++ Frustrated Magnetism and Quantum Spin Liquids
++ Correlated Electrons and Superconductivity 
++ Magnetocaloric Quantum Materials
 
 ****
 
