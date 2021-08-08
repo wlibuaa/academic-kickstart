@@ -66,18 +66,17 @@ subtitle = ""
  css_class = ""
 
 +++
-+ Our recent work "Identification of magnetic interactions and highfield quantum spin liquid in α-RuCl3" is published in [Nature Communications **12**, 4007](https://doi.org/10.1038/s41467-021-24257-8), 29 June 2021. 
++ Our recent work "Significant inverse magnetocaloric effect induced by quantum criticality" is published in [**Phys. Rev. Research 3**, 033094](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033094), 27 July 2021.
 
-  BIG Congradualtions to Han Li, Yuan Gao, and Dai-Wei Qu! This is our third Nature Communications paper on frustrated quantum magnetism in the past two years. Please check the promotion of our work in the [BUAA](https://news.buaa.edu.cn/info/1005/54437.htm) and [ITP news here](https://mp.weixin.qq.com/s/y7vjl4FUdJnQr6LcLT4gpQ). 
++ Our recent work "Kondo Holes in the Two-Dimensional Itinerant Ising Ferromagnet Fe3GeTe2" is published in [**Nano Letters 14**, 6117](https://pubs.acs.org/doi/pdf/10.1021/acs.nanolett.1c01661), 19 July 2021.
 
-+ Our recent work "Symmetry-Protected Topological Edge Modes and Emergent Partial Time-Reversal Symmetry Breaking in Open Quantum Many-Body Systems" is published in [Phys. Rev. Lett. **126**, 237201](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.237201), 9 June 2021.
++ Our recent work "Identification of magnetic interactions and high-field quantum spin liquid in α-RuCl3" is published in [**Nature Communications 12**, 4007](https://doi.org/10.1038/s41467-021-24257-8), 29 June 2021. **BIG Congradualtions** to Han Li, Yuan Gao, and Dai-Wei Qu! This is our third Nature Communications paper on frustrated quantum magnetism in the past two years. Please check the promotion of our work in the [BUAA](https://news.buaa.edu.cn/info/1005/54437.htm) and [ITP news here](https://mp.weixin.qq.com/s/y7vjl4FUdJnQr6LcLT4gpQ). 
 
-  BIG Congradulations to Qiaoyi! This work is done in collaboration with Prof. Zi Cai's group in SJTU. 
++ Our recent work "Symmetry-Protected Topological Edge Modes and Emergent Partial Time-Reversal Symmetry Breaking in Open Quantum Many-Body Systems" is published in [**Phys. Rev. Lett. 126**, 237201](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.237201), 9 June 2021. BIG Congradulations to Qiao-Yi! This work was done in collaboration with [Prof. Zi Cai's group](https://www.physics.sjtu.edu.cn/zcai) in SJTU. 
 
 + 祝贺高源同学获得第十六届全国磁学理论会议 ([https://mt2020.yzu.edu.cn/](https://mt2020.yzu.edu.cn/) 扬州) 优秀墙报奖.
 
-+ Our recent work "Quantum many-body simulations of the two-dimensional Fermi-Hubbard model in ultracold optical lattices" is published in 
-  [Phys. Rev. B **103**, L041107](https://doi.org/10.1103/PhysRevB.103.L041107), 19 Jan 2021.
++ Our recent work "Quantum many-body simulations of the two-dimensional Fermi-Hubbard model in ultracold optical lattices" is published in [**Phys. Rev. B 103**, L041107](https://doi.org/10.1103/PhysRevB.103.L041107), 19 Jan 2021.
 
   
 
