@@ -68,7 +68,7 @@ subtitle = ""
 +++
 + Our recent work "Significant inverse magnetocaloric effect induced by quantum criticality" is published in [**Phys. Rev. Research 3**, 033094](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033094), 27 July 2021.
 
-+ Our recent work "Kondo Holes in the Two-Dimensional Itinerant Ising Ferromagnet Fe3GeTe2" is published in [**Nano Letters 14**, 6117](https://pubs.acs.org/doi/pdf/10.1021/acs.nanolett.1c01661), 19 July 2021.
++ Our recent work "Kondo Holes in the Two-Dimensional Itinerant Ising Ferromagnet Fe3GeTe2" is published in [**Nano Letters 14**, 6117](https://pubs.acs.org/doi/pdf/10.1021/acs.nanolett.1c01661), 19 July 2021. Please check [here](https://mp.weixin.qq.com/s/It8EWN9WOmSd0ejHOUV4KA) for Chinese highlight for the article.
 
 + Our recent work "Identification of magnetic interactions and high-field quantum spin liquid in α-RuCl3" is published in [**Nature Communications 12**, 4007](https://doi.org/10.1038/s41467-021-24257-8), 29 June 2021. **BIG Congradualtions** to Han Li, Yuan Gao, and Dai-Wei Qu! This is our third Nature Communications paper on frustrated quantum magnetism in the past two years. Please check the promotion of our work in the [BUAA](https://news.buaa.edu.cn/info/1005/54437.htm) and [ITP news here](https://mp.weixin.qq.com/s/y7vjl4FUdJnQr6LcLT4gpQ). 
 
